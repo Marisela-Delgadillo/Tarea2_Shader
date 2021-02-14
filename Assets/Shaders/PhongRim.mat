@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SDRimLight
-  m_Shader: {fileID: 4800000, guid: c11e3d12b6f1572458cdef46377158f5, type: 3}
+  m_Name: PhongRim
+  m_Shader: {fileID: 4800000, guid: 74fbf01d882bca94cb9c53be7519a711, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -67,15 +67,14 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _RimPower: 3.59
+    - _RimPower: 2.79
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _Albedo: {r: 1, g: 0.04150939, b: 0.55174273, a: 1}
+    - _Albedo: {r: 1, g: 0.013207495, b: 0.7293058, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _RimColor: {r: 1, g: 0.6207677, b: 0, a: 1}
+    - _EmissionColor: {r: 1, g: 0.6903944, b: 0, a: 1}
   m_BuildTextureStacks: []
